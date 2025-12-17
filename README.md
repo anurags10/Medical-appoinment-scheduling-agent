@@ -9,7 +9,7 @@ Patients can **book, reschedule, and cancel appointments** via a chat interface 
 
 ### 1.1 Install dependencies
 
-From the `app` directory:
+From the `root` directory:
 
 ```bash
 npm install
@@ -31,7 +31,7 @@ You would then read these in Next.js using `process.env.CALENDLY_API_KEY` inside
 
 ### 1.3 Running the application
 
-From the `app` directory:
+From the `root` directory:
 
 ```bash
 npm run dev
